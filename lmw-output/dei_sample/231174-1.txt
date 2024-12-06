@@ -1,0 +1,1 @@
+UVM's web single sign-on service requires JavaScript be enabled in your browser. You are attempting to access a resource at the University of Vermont that is protected and requires a valid UVM affiliate NetID to access. Log out and close your browser window to best protect your privacy. Accessibility|Terms of Use
